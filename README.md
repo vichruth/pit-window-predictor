@@ -69,4 +69,4 @@ Bash
 
 Results
 
-The model successfully identifies the "crossover point"—where the time lost due to old tires exceeds the time cost of a pit stop. (See the screenshot above: The red line represents the AI's predicted pace strategy vs. the actual race data in grey).The output of how the model looks is stored as image in output folder
+The model successfully identifies the "crossover point"—where the time lost due to old tires exceeds the time cost of a pit stop. (See the screenshot above: The red line represents the AI's predicted pace strategy vs. the actual race data in grey).The output of how the model looks is stored as image in output folder.
