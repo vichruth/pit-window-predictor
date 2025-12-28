@@ -26,3 +26,9 @@ Tech Stack
     Seaborn/Matplotlib (For visualizing the degradation curves)
 
     Kaggle API (Source of the F1 World Championship dataset)
+
+#in the outputs folder the first image of visualization the data says as the tires get older lap time decreases since the data is consumed all at once so in monaco it would 75 seconds but in spa it would be around 120 seconds so
+
+The engine
+
+    We are using XGBoost model which recognises the difference between the different circuits
